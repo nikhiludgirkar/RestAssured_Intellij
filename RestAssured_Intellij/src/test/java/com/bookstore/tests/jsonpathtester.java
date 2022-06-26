@@ -8,10 +8,7 @@ import io.restassured.response.Response;
 import org.testng.annotations.Test;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 public class jsonpathtester {
     @Test
