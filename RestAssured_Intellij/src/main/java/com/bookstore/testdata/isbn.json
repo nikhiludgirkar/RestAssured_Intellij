@@ -1,0 +1,31 @@
+{
+  "instructor": "Nikhil Udgirkar",
+  "isbn": "www.google.com",
+  "services": "Test Automation Service",
+  "expertise": "Testing",
+  "linkedIn": "linkedIn",
+  "courses": {
+    "webAutomation": [
+      {
+        "price": "500",
+        "courseTitle": "Selenium"
+      },
+      {
+        "price": "333",
+        "courseTitle": "Protractor"
+      }
+    ],
+    "apiAutomation": [
+      {
+        "price": "344.00",
+        "courseTitle": "Rest Assured API Automation"
+      }
+    ],
+    "mobileAutomation": [
+      {
+        "price": "4555",
+        "courseTitle": "Appium"
+      }
+    ]
+  }
+}
