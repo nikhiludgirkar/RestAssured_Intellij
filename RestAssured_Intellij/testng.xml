@@ -1,0 +1,13 @@
+<suite name = "ApiAutomationSuite">
+    <test name = "test">
+        <listeners>
+            <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+            <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+        </listeners>
+        <classes>
+            <class name = "com.bookstore.tests.FirstTest"></class>
+        </classes>
+
+    </test>
+
+</suite>
